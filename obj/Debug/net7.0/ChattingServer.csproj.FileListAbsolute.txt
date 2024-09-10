@@ -1,0 +1,102 @@
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.exe
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.deps.json
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.dll
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\ChattingServer.pdb
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ChattingServer\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.ChattingServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.build.ChattingServer.props
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChattingServer.props
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChattingServer.props
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\scopedcss\bundle\ChattingServer.styles.css
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\scopedcss\projectbundle\ChattingServer.bundle.scp.css
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.dll
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\refint\ChattingServer.dll
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.pdb
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ChattingServer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ChattingServer\obj\Debug\net7.0\ref\ChattingServer.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\appsettings.Development.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\appsettings.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.staticwebassets.runtime.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.exe
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.deps.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.runtimeconfig.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\ChattingServer.pdb
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.AssemblyReference.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfoInputs.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfo.cs
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.CoreCompileInputs.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.MvcApplicationPartsAssemblyInfo.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cs
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets.build.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets.development.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.ChattingServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.build.ChattingServer.props
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChattingServer.props
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChattingServer.props
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\staticwebassets.pack.json
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\scopedcss\bundle\ChattingServer.styles.css
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\scopedcss\projectbundle\ChattingServer.bundle.scp.css
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\Chatting.6ADAD46F.Up2Date
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\refint\ChattingServer.dll
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.pdb
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ChattingServer.genruntimeconfig.cache
+F:\1\Application Development Project\Chatting app project\ChattingServer (1)\ChattingServer\obj\Debug\net7.0\ref\ChattingServer.dll
+B:\ChattingServer\bin\Debug\net7.0\appsettings.Development.json
+B:\ChattingServer\bin\Debug\net7.0\appsettings.json
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.staticwebassets.runtime.json
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.exe
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.deps.json
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.runtimeconfig.json
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.dll
+B:\ChattingServer\bin\Debug\net7.0\ChattingServer.pdb
+B:\ChattingServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+B:\ChattingServer\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.AssemblyReference.cache
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.GeneratedMSBuildEditorConfig.editorconfig
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfoInputs.cache
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.AssemblyInfo.cs
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.CoreCompileInputs.cache
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.MvcApplicationPartsAssemblyInfo.cache
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cache
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.RazorAssemblyInfo.cs
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets.build.json
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets.development.json
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.ChattingServer.Microsoft.AspNetCore.StaticWebAssets.props
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.build.ChattingServer.props
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChattingServer.props
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChattingServer.props
+B:\ChattingServer\obj\Debug\net7.0\staticwebassets.pack.json
+B:\ChattingServer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+B:\ChattingServer\obj\Debug\net7.0\scopedcss\bundle\ChattingServer.styles.css
+B:\ChattingServer\obj\Debug\net7.0\scopedcss\projectbundle\ChattingServer.bundle.scp.css
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.csproj.CopyComplete
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.dll
+B:\ChattingServer\obj\Debug\net7.0\refint\ChattingServer.dll
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.pdb
+B:\ChattingServer\obj\Debug\net7.0\ChattingServer.genruntimeconfig.cache
+B:\ChattingServer\obj\Debug\net7.0\ref\ChattingServer.dll

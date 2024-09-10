@@ -1,0 +1,47 @@
+﻿@* Index.cshtml *@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat Application</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.13/signalr.min.js"></script>
+</head>
+<body>
+    <div>
+        <h2>Chat</h2>
+        <input type="text" id="userInput" placeholder="Enter your name" />
+        <input type="text" id="messageInput" placeholder="Enter your message" />
+        <button id="sendButton">Send</button>
+    </div>
+    <hr />
+    <div id="chatMessages"></div>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/chatHub")
+            .configureLogging(signalR.LogLevel.Information)
+            .build();
+
+        connection.on("ReceiveMessage", function (user, message) {
+            var encodedUser = $("<div />").text(user).html();
+            var encodedMessage = $("<div />").text(message).html();
+            $("#chatMessages").append("<p><strong>" + encodedUser + "</strong>: " + encodedMessage + "</p>");
+        });
+
+        $("#sendButton").click(function () {
+            var user = $("#userInput").val();
+            var message = $("#messageInput").val();
+            connection.invoke("SendMessage", user, message).catch(function (err) {
+                return console.error(err.toString());
+            });
+            $("#messageInput").val("").focus();
+        });
+
+        connection.start().then(function () {
+            console.log("Connected!");
+        }).catch(function (err) {
+            console.error(err.toString());
+        });
+    </script>
+</body>
+</html>

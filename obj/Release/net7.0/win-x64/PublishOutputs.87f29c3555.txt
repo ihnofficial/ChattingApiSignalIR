@@ -1,0 +1,9 @@
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\ChattingServer.exe
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.Development.json
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.json
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\ChattingServer.dll
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\ChattingServer.deps.json
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\ChattingServer.runtimeconfig.json
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\ChattingServer.pdb
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+B:\ChattingServer\obj\Release\net7.0\win-x64\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
